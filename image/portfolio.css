@@ -1,7 +1,13 @@
 body{
-backround-color:#F5538F;
+
 }
 
 h1{
     font-weight: 700;
+    font-size: 48px;
+}
+
+.bg-warning{
+    color: black;
+    background-color: rgb(239, 112, 159);
 }
